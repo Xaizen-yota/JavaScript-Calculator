@@ -15,7 +15,7 @@ const data = [
   { value: '0', sound: 'engineer_no01.mp3' },
   { value: '.', sound: 'roblox-death-sound_1.mp3' },
   { value: '/', sound: 'roblox-death-sound_1.mp3' },
-  { value: '=', sound: 'Sounds effect/equal.mp3' },
+  { value: '=', sound: 'equal.mp3' },
   { value: 'DELETE', sound: 'clear.mp3' },
 ];
 
@@ -52,7 +52,7 @@ function callbuttons(content) {
           instructions.innerText = eval(instructions.textContent);
         } catch (ex) {
           instructions.innerText = "...error";
-          playSound('/Sounds effect/aughhhhh-aughhhhh.mp3');
+          playSound('aughhhhh-aughhhhh.mp3');
         }
         break;
     }
