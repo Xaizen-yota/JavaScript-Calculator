@@ -8,6 +8,10 @@ A simple calculator implemented using HTML, CSS, and JavaScript. Perform basic a
 
 This calculator application allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It features a user-friendly interface with a responsive design.
 
+## Demo
+
+You can play the game by opening the [JavaScript-Calculator](https://xaizen-yota.github.io/JavaScript-Calculator/) file in your web browser.
+
 ## Features
 
 - Arithmetic operations: Addition, subtraction, multiplication, and division.
