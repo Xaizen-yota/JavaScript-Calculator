@@ -12,7 +12,7 @@ const data = [
   { value: '2', sound: '2.mp3' },
   { value: '3', sound: '3.mp3' },
   { value: '*', sound: 'roblox-death-sound_1.mp3' },
-  { value: '0', sound: 'engineer_no01.mp3' },
+  { value: '0', sound: 'nope.mp3' },
   { value: '.', sound: 'roblox-death-sound_1.mp3' },
   { value: '/', sound: 'roblox-death-sound_1.mp3' },
   { value: '=', sound: 'equal.mp3' },
